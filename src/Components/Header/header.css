@@ -1,0 +1,11 @@
+nav a{
+    margin-right: 20px;
+}
+
+nav span{
+    margin-right: 30px;
+}
+nav a.active{
+    color: yellow;
+    text-decoration: underline;
+}
